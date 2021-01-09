@@ -6,21 +6,21 @@
 
 
 <details>
-    <summary><b>Seção 1:</b> Introdução</summary>
-    - [x] 1. Apresentação do curso
-    - [x] 2. Introdução
-    - [ ] 3. O que é JavaScript?
-    - [ ] 4. Onde o JavaScript é utilizado?
-    - [ ] 5. Fazendo download do VSCode (editor de texto utilizado no curso)
-    - [ ] 6. Como executar JS no navegador por arquivo 
-    - [ ] 7. Como executar JS diretamente no navegador
-    - [ ] 8. Maneira alternativa de executar JS
-    - [ ] 9. Como pesquisar problemas/dúvidas de código no Stackoverflow
-    - [ ] 10. Como pesquisar problemas/dúvidas de códigos no Google
-    - [ ] 11. Minha sugestão para você acompanhar o curso
-    - [ ] 12. Slides do Curso
-    - [ ] 13. Conclusão da seção
-    - [ ] 14. Arquivos do curso
+<summary><b>Seção 1:</b> Introdução</summary>
+ - [x] 1. Apresentação do curso
+ - [x] 2. Introdução
+ - [ ] 3. O que é JavaScript?
+ - [ ] 4. Onde o JavaScript é utilizado?
+- [ ] 5. Fazendo download do VSCode (editor de texto utilizado no curso)
+- [ ] 6. Como executar JS no navegador por arquivo 
+- [ ] 7. Como executar JS diretamente no navegador
+- [ ] 8. Maneira alternativa de executar JS
+- [ ] 9. Como pesquisar problemas/dúvidas de código no Stackoverflow
+- [ ] 10. Como pesquisar problemas/dúvidas de códigos no Google
+- [ ] 11. Minha sugestão para você acompanhar o curso
+- [ ] 12. Slides do Curso
+- [ ] 13. Conclusão da seção
+- [ ] 14. Arquivos do curso
 </details>
 
 <details>
