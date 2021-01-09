@@ -6,7 +6,7 @@
 
 
 <details>
-<summary><b>Seção 1:</b> Introdução</summary>
+<summary><b>Seção 1:</b> Introdução</summary><br>
 
 - [x] 1. Apresentação do curso
 - [x] 2. Introdução
