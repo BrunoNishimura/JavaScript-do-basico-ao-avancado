@@ -6,25 +6,27 @@
 
 
 <details>
-<summary><b>Seção 1:</b> Introdução</summary>
- - [x] 1. Apresentação do curso
- - [x] 2. Introdução
- - [ ] 3. O que é JavaScript?
- - [ ] 4. Onde o JavaScript é utilizado?
-- [ ] 5. Fazendo download do VSCode (editor de texto utilizado no curso)
-- [ ] 6. Como executar JS no navegador por arquivo 
-- [ ] 7. Como executar JS diretamente no navegador
-- [ ] 8. Maneira alternativa de executar JS
-- [ ] 9. Como pesquisar problemas/dúvidas de código no Stackoverflow
-- [ ] 10. Como pesquisar problemas/dúvidas de códigos no Google
-- [ ] 11. Minha sugestão para você acompanhar o curso
-- [ ] 12. Slides do Curso
-- [ ] 13. Conclusão da seção
-- [ ] 14. Arquivos do curso
+    <summary><b>Seção 1:</b> Introdução</summary>
+    
+    - [x] 1. Apresentação do curso
+    - [x] 2. Introdução
+    - [ ] 3. O que é JavaScript?
+    - [ ] 4. Onde o JavaScript é utilizado?
+    - [ ] 5. Fazendo download do VSCode (editor de texto utilizado no curso)
+    - [ ] 6. Como executar JS no navegador por arquivo 
+    - [ ] 7. Como executar JS diretamente no navegador
+    - [ ] 8. Maneira alternativa de executar JS
+    - [ ] 9. Como pesquisar problemas/dúvidas de código no Stackoverflow
+    - [ ] 10. Como pesquisar problemas/dúvidas de códigos no Google
+    - [ ] 11. Minha sugestão para você acompanhar o curso
+    - [ ] 12. Slides do Curso
+    - [ ] 13. Conclusão da seção
+    - [ ] 14. Arquivos do curso
 </details>
 
 <details>
-<summary><b>Seção 2:</b> Tipos de dado e operadores lógicos</summary>
+    <summary><b>Seção 2:</b> Tipos de dado e operadores lógicos</summary>
+    
     - [ ] 15. Introdução da seção
     - [ ] 16. O que são tipos de dados?
     - [ ] 17. Tipo de dado: number
@@ -44,7 +46,8 @@
 </details>
 
 <details>
-<summary><b>Seção 3: Exercícios</b> sobre tipos de dados</summary>
+    <summary><b>Seção 3: Exercícios</b> sobre tipos de dados</summary>
+    
     - [ ] 30. Introdução da seção
     - [ ] 31. Exercício 01: explicação
     - [ ] 32. Exercício 01: solução
@@ -60,7 +63,8 @@
 </details>
 
 <details>
-<summary><b>Seção 4:</b> Estruturas de Programação</summary>
+    <summary><b>Seção 4:</b> Estruturas de Programação</summary>
+    
     - [ ] 42. Introdução da seção
     - [ ] 43. O que é um software?
     - [ ] 44. O que são variáveis?
@@ -93,7 +97,8 @@
 </details>
 
 <details>
-<summary><b>Seção 5: Exercícios</b> sobre estrutura de programação</summary>
+    <summary><b>Seção 5: Exercícios</b> sobre estrutura de programação</summary>
+    
     - [ ] 70. Introdução da seção
     - [ ] 71. Exercício 06: explicação
     - [ ] 72. Exercício 06: solução
@@ -119,7 +124,8 @@
 </details>
 
 <details>
-<summary><b>Seção 6:</b> Funções</summary>
+    <summary><b>Seção 6:</b> Funções</summary>
+    
     - [ ] 92. Introdução da seção
     - [ ] 93. O que são funções?
     - [ ] 94. Definindo uma função: teoria
@@ -139,7 +145,8 @@
 </details>
 
 <details>
-<summary><b>Seção 7: Exercícios</b> sobre funções</summary>
+    <summary><b>Seção 7: Exercícios</b> sobre funções</summary>
+    
     - [ ] 107. Introdução da seção
     - [ ] 108. Exercício 16: explicação
     - [ ] 109. Exercício 16: solução
@@ -165,7 +172,8 @@
 </details>
 
 <details>
-<summary><b>Seção 8:</b> Arrays e Objects</summary>
+    <summary><b>Seção 8:</b> Arrays e Objects</summary>
+    
     - [ ] 129. Introdução da seção
     - [ ] 130. O que são arrays?
     - [ ] 131. Mais sobre arrays
@@ -200,7 +208,8 @@
 </details>
 
 <details>
-<summary><b>Seção 9: Exercícios</b> sobre arrays e objetos</summary>
+    <summary><b>Seção 9: Exercícios</b> sobre arrays e objetos</summary>
+    
     - [ ] 159. Introdução da seção
     - [ ] 160. Exercício 26: explicação
     - [ ] 161. Exercício 26: solução
@@ -227,6 +236,7 @@
 
 <details>
     <summary><b>Seção 10:</b> Conceitos de orientação a objetos</summary>
+    
     - [ ] 181. Introdução da seção
     - [ ] 182. O que é orientação a objetos?
     - [ ] 183. Aprofundando em métodos
@@ -250,6 +260,7 @@
 
 <details>
     <summary><b>Seção 11: Exercícios</b> sobre orientação a objetos</summary>
+    
     - [ ] 199. Introdução da seção
     - [ ] 200. Exercício 36: explicação
     - [ ] 201. Exercício 36: solução
@@ -265,7 +276,8 @@
 </details>
 
 <details>
-<summary><b>Seção 12:</b> Debugs e erros no JavaScript</summary>
+    <summary><b>Seção 12:</b> Debugs e erros no JavaScript</summary>
+    
     - [ ] 211. Introdução da seção
     - [ ] 212. O que é bug e debug?
     - [ ] 213. Strict mode
@@ -280,7 +292,8 @@
 </details>
 
 <details>
-<summary><b>Seção 13:</b> Expressões Regulares</summary>
+    <summary><b>Seção 13:</b> Expressões Regulares</summary>
+    
     - [ ] 222. Introdução da seção
     - [ ] 223. O que são expressões regulares?
     - [ ] 224. Como criar uma expressão regular
@@ -302,7 +315,8 @@
 </details>
 
 <details>
-<summary><b>Seção 14: Exercícios</b> sobre Expressões Regulares</summary>
+    <summary><b>Seção 14: Exercícios</b> sobre Expressões Regulares</summary>
+    
     - [ ] 240. Introdução da seção
     - [ ] 241. Exercício 41: explicação
     - [ ] 242. Exercício 41: solução
@@ -319,6 +333,7 @@
 
 <details>
     <summary><b>Seção 15:</b> Programação Assíncrona com JavaScript</summary>
+    
     - [ ] 252. Introdução da seção
     - [ ] 253. O que é programação assíncrona?
     - [ ] 254. Utilizando callbacks
@@ -335,6 +350,7 @@
 
 <details>
 <summary><b>Seção 16:</b> JavaScript e o navegador</summary>
+
     - [ ] 263. Introdução da seção
     - [ ] 264. Ententendo protocolos
     - [ ] 265. O que é uma URL?
@@ -367,6 +383,7 @@
 
 <details>
     <summary><b>Seção 17:</b> Eventos com JavaScript</summary>
+
     - [ ] 290. Introdução da seção
     - [ ] 291. O que são eventos?
     - [ ] 292. Criando um evento
@@ -386,6 +403,7 @@
 
 <details>
     <summary><b>Seção 18: Projeto 1:</b> Jogo da Velha (HTML, CSS, DOM e eventos)</summary>
+
     - [ ] 305. Introdução do projeto
     - [ ] 306. Estruturando o projeto
     - [ ] 307. Criando o HTML
@@ -399,6 +417,7 @@
 
 <details>
     <summary><b>Seção 19:</b> Aprendendo Node.js</summary>
+
     - [ ] 314. Introdução da seção
     - [ ] 315. O que é Node?
     - [ ] 316. Instalando o Node
@@ -423,6 +442,7 @@
 
 <details>
     <summary><b>Seção 20: Projeto 2:</b> Projeto com Node, Express, Sequelize: Job Finder</summary>
+
     - [ ] 334. Introdução do projeto
     - [ ] 335. Criando o projeto e instalando dependências
     - [ ] 336. Iniciando o app com o Express
@@ -449,6 +469,7 @@
 
 <details>
     <summary><b>Seção 21: Projeto 3:</b> Quizz com Vanilla JS (Manipulação e eventos de DOM)</summary>
+    
     - [ ] 356. Apresentação do projeto
     - [ ] 357. Arquivos do projeto
     - [ ] 358. Estrutura base do projeto
