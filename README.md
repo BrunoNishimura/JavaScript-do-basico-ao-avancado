@@ -4,9 +4,11 @@
 
 # Javascript do básico ao avançado
 
+<details open>
+<summary><b>Seções</b></summary>
 
 <details>
-<summary><b>Seção 1:</b> Introdução</summary><br>
+<summary><b>Seção 1:</b> Introdução</summary>
 
 - [x] 1. Apresentação do curso
 - [x] 2. Introdução
@@ -46,24 +48,7 @@
 </details>
 
 <details>
-<summary><b>Seção 3: Exercícios</b> sobre tipos de dados</summary>
-
-- [ ] 30. Introdução da seção
-- [ ] 31. Exercício 01: explicação
-- [ ] 32. Exercício 01: solução
-- [ ] 33. Exercício 02: explicação
-- [ ] 34. Exercício 02: solução
-- [ ] 35. Exercício 03: explicação
-- [ ] 36. Exercício 03: solução
-- [ ] 37. Exercício 04: explicação
-- [ ] 38. Exercício 04: solução
-- [ ] 39. Exercício 05: explicação
-- [ ] 40. Exercício 05: solução
-- [ ] 41. Conclusão da seção
-</details>
-
-<details>
-<summary><b>Seção 4:</b> Estruturas de Programação</summary>
+<summary><b>Seção 3:</b> Estruturas de Programação</summary>
 
 - [ ] 42. Introdução da seção
 - [ ] 43. O que é um software?
@@ -97,34 +82,7 @@
 </details>
 
 <details>
-<summary><b>Seção 5: Exercícios</b> sobre estrutura de programação</summary>
-
-- [ ] 70. Introdução da seção
-- [ ] 71. Exercício 06: explicação
-- [ ] 72. Exercício 06: solução
-- [ ] 73. Exercício 07: explicação
-- [ ] 74. Exercício 07: solução
-- [ ] 75. Exercício 08: explicação
-- [ ] 76. Exercício 08: solução
-- [ ] 77. Exercício 09: explicação
-- [ ] 78. Exercício 09: solução
-- [ ] 79. Exercício 10: explicação
-- [ ] 80. Exercício 10: solução
-- [ ] 81. Exercício 11: explicação
-- [ ] 82. Exercício 11: solução
-- [ ] 83. Exercício 12: explicação
-- [ ] 84. Exercício 12: solução
-- [ ] 85. Exercício 13: explicação
-- [ ] 86. Exercício 13: solução
-- [ ] 87. Exercício 14: explicação
-- [ ] 88. Exercício 14: solução
-- [ ] 89. Exercício 15: explicação
-- [ ] 90. Exercício 15: solução
-- [ ] 91. Conclusão da seção
-</details>
-
-<details>
-<summary><b>Seção 6:</b> Funções</summary>
+<summary><b>Seção 4:</b> Funções</summary>
 
 - [ ] 92. Introdução da seção
 - [ ] 93. O que são funções?
@@ -145,34 +103,7 @@
 </details>
 
 <details>
-<summary><b>Seção 7: Exercícios</b> sobre funções</summary>
-
-- [ ] 107. Introdução da seção
-- [ ] 108. Exercício 16: explicação
-- [ ] 109. Exercício 16: solução
-- [ ] 110. Exercício 17: explicação
-- [ ] 111. Exercício 17: solução
-- [ ] 112. Exercício 18: explicação
-- [ ] 113. Exercício 18: solução
-- [ ] 114. Exercício 19: explicação
-- [ ] 115. Exercício 19: solução
-- [ ] 116. Exercício 20: explicação
-- [ ] 117. Exercício 20: solução
-- [ ] 118. Exercício 21: explicação
-- [ ] 119. Exercício 21: solução
-- [ ] 120. Exercício 22: explicação
-- [ ] 121. Exercício 22: solução
-- [ ] 122. Exercício 23: explicação
-- [ ] 123. Exercício 23: solução
-- [ ] 124. Exercício 24: explicação
-- [ ] 125. Exercício 24: solução
-- [ ] 126. Exercício 25: explicação
-- [ ] 127. Exercício 25: solução
-- [ ] 128. Conclusão da seção
-</details>
-
-<details>
-<sumary><b>Seção 8:</b> Arrays e Objects</summary>
+<summary><b>Seção 5:</b> Arrays e Objects</summary>
 
 - [ ] 129. Introdução da seção
 - [ ] 130. O que são arrays?
@@ -208,34 +139,7 @@
 </details>
 
 <details>
-<summary><b>Seção 9: Exercícios</b> sobre arrays e objetos</summary>
-
-- [ ] 159. Introdução da seção
-- [ ] 160. Exercício 26: explicação
-- [ ] 161. Exercício 26: solução
-- [ ] 162. Exercício 27: explicação
-- [ ] 163. Exercício 27: solução
-- [ ] 164. Exercício 28: explicação
-- [ ] 165. Exercício 28: solução
-- [ ] 166. Exercício 29: explicação
-- [ ] 167. Exercício 29: solução
-- [ ] 168. Exercício 30: explicação
-- [ ] 169. Exercício 30: solução
-- [ ] 170. Exercício 31: explicação
-- [ ] 171. Exercício 31: solução
-- [ ] 172. Exercício 32: explicação
-- [ ] 173. Exercício 32: solução
-- [ ] 174. Exercício 33: explicação
-- [ ] 175. Exercício 33: solução
-- [ ] 176. Exercício 34: explicação
-- [ ] 177. Exercício 34: solução
-- [ ] 178. Exercício 35: explicação
-- [ ] 179. Exercício 35: solução
-- [ ] 180. Conclusão da seção
-</details>
-
-<details>
-<summary><b>Seção 10:</b> Conceitos de orientação a objetos</summary>
+<summary><b>Seção 6:</b> Conceitos de orientação a objetos</summary>
 
 - [ ] 181. Introdução da seção
 - [ ] 182. O que é orientação a objetos?
@@ -259,24 +163,7 @@
 </details>
 
 <details>
-<summary><b>Seção 11: Exercícios</b> sobre orientação a objetos</summary>
-
-- [ ] 199. Introdução da seção
-- [ ] 200. Exercício 36: explicação
-- [ ] 201. Exercício 36: solução
-- [ ] 202. Exercício 37: explicação
-- [ ] 203. Exercício 37: solução
-- [ ] 204. Exercício 38: explicação
-- [ ] 205. Exercício 38: solução
-- [ ] 206. Exercício 39: explicação
-- [ ] 207. Exercício 39: solução
-- [ ] 208. Exercício 40: explicação
-- [ ] 209. Exercício 40: solução
-- [ ] 210. Conclusão da seção
-</details>
-
-<details>
-<summary><b>Seção 12:</b> Debugs e erros no JavaScript</summary>
+<summary><b>Seção 7:</b> Debugs e erros no JavaScript</summary>
 
 - [ ] 211. Introdução da seção
 - [ ] 212. O que é bug e debug?
@@ -292,7 +179,7 @@
 </details>
 
 <details>
-<summary><b>Seção 13:</b> Expressões Regulares</summary>
+<summary><b>Seção 8:</b> Expressões Regulares</summary>
 
 - [ ] 222. Introdução da seção
 - [ ] 223. O que são expressões regulares?
@@ -315,24 +202,7 @@
 </details>
 
 <details>
-<summary><b>Seção 14: Exercícios</b> sobre Expressões Regulares</summary>
-
-- [ ] 240. Introdução da seção
-- [ ] 241. Exercício 41: explicação
-- [ ] 242. Exercício 41: solução
-- [ ] 243. Exercício 42: explicação
-- [ ] 244. Exercício 42: solução
-- [ ] 245. Exercício 43: explicação
-- [ ] 246. Exercício 43: solução
-- [ ] 247. Exercício 44: explicação
-- [ ] 248. Exercício 44: solução
-- [ ] 249. Exercício 45: explicação
-- [ ] 250. Exercício 45: solução
-- [ ] 251. Conclusão da seção
-</details>
-
-<details>
-<summary><b>Seção 15:</b> Programação Assíncrona com JavaScript</summary>
+<summary><b>Seção 9:</b> Programação Assíncrona com JavaScript</summary>
 
 - [ ] 252. Introdução da seção
 - [ ] 253. O que é programação assíncrona?
@@ -349,7 +219,7 @@
 </details>
 
 <details>
-<summary><b>Seção 16:</b> JavaScript e o navegador</summary>
+<summary><b>Seção 10:</b> JavaScript e o navegador</summary>
 
 - [ ] 263. Introdução da seção
 - [ ] 264. Ententendo protocolos
@@ -382,7 +252,7 @@
 </details>
 
 <details>
-<summary><b>Seção 17:</b> Eventos com JavaScript</summary>
+<summary><b>Seção 11:</b> Eventos com JavaScript</summary>
 
 - [ ] 290. Introdução da seção
 - [ ] 291. O que são eventos?
@@ -402,21 +272,7 @@
 </details>
 
 <details>
-<summary><b>Seção 18: Projeto 1:</b> Jogo da Velha (HTML, CSS, DOM e eventos)</summary>
-
-- [ ] 305. Introdução do projeto
-- [ ] 306. Estruturando o projeto
-- [ ] 307. Criando o HTML
-- [ ] 308. Finalizando o CSS
-- [ ] 309. Criando a lógica do jogo
-- [ ] 310. Lógica da condição de vitória
-- [ ] 311. Declarando quem foi o vencedor
-- [ ] 312. Fazendo a IA jogar
-- [ ] 313. Conclusão do projeto
-</details>
-
-<details>
-<summary><b>Seção 19:</b> Aprendendo Node.js</summary>
+<summary><b>Seção 12:</b> Aprendendo Node.js</summary>
 
 - [ ] 314. Introdução da seção
 - [ ] 315. O que é Node?
@@ -439,9 +295,27 @@
 - [ ] 332. Testando nossa API com o Postman
 - [ ] 333. Conclusão da seção
 </details>
+</details>
 
 <details>
-<summary><b>Seção 20: Projeto 2:</b> Projeto com Node, Express, Sequelize: Job Finder</summary>
+<summary><b>Projetos</b></summary>
+
+<details>
+<summary><b>Projeto 1:</b> Jogo da Velha (HTML, CSS, DOM e eventos)</summary>
+
+- [ ] 305. Introdução do projeto
+- [ ] 306. Estruturando o projeto
+- [ ] 307. Criando o HTML
+- [ ] 308. Finalizando o CSS
+- [ ] 309. Criando a lógica do jogo
+- [ ] 310. Lógica da condição de vitória
+- [ ] 311. Declarando quem foi o vencedor
+- [ ] 312. Fazendo a IA jogar
+- [ ] 313. Conclusão do projeto
+</details>
+
+<details>
+<summary><b>Projeto 2:</b> Projeto com Node, Express, Sequelize: Job Finder</summary>
 
 - [ ] 334. Introdução do projeto
 - [ ] 335. Criando o projeto e instalando dependências
@@ -468,7 +342,7 @@
 </details>
 
 <details>
-<summary><b>Seção 21: Projeto 3:</b> Quizz com Vanilla JS (Manipulação e eventos de DOM)</summary>
+<summary><b>Projeto 3:</b> Quizz com Vanilla JS (Manipulação e eventos de DOM)</summary>
 
 - [ ] 356. Apresentação do projeto
 - [ ] 357. Arquivos do projeto
@@ -482,3 +356,140 @@
 - [ ] 365. Exibindo pontuação do usuário
 - [ ] 366. Conclusão do projeto
 </details>
+</details>
+
+<details>
+<summary><b>Exercícios</b></summary>
+
+<details>
+<summary><b>Seção 2.1: Exercícios</b> sobre tipos de dados</summary>
+
+- [ ] 30. Introdução da seção
+- [ ] 31. Exercício 01: explicação
+- [ ] 32. Exercício 01: solução
+- [ ] 33. Exercício 02: explicação
+- [ ] 34. Exercício 02: solução
+- [ ] 35. Exercício 03: explicação
+- [ ] 36. Exercício 03: solução
+- [ ] 37. Exercício 04: explicação
+- [ ] 38. Exercício 04: solução
+- [ ] 39. Exercício 05: explicação
+- [ ] 40. Exercício 05: solução
+- [ ] 41. Conclusão da seção
+</details>
+
+<details>
+<summary><b>Seção 3.1: Exercícios</b> sobre estrutura de programação</summary>
+
+- [ ] 70. Introdução da seção
+- [ ] 71. Exercício 06: explicação
+- [ ] 72. Exercício 06: solução
+- [ ] 73. Exercício 07: explicação
+- [ ] 74. Exercício 07: solução
+- [ ] 75. Exercício 08: explicação
+- [ ] 76. Exercício 08: solução
+- [ ] 77. Exercício 09: explicação
+- [ ] 78. Exercício 09: solução
+- [ ] 79. Exercício 10: explicação
+- [ ] 80. Exercício 10: solução
+- [ ] 81. Exercício 11: explicação
+- [ ] 82. Exercício 11: solução
+- [ ] 83. Exercício 12: explicação
+- [ ] 84. Exercício 12: solução
+- [ ] 85. Exercício 13: explicação
+- [ ] 86. Exercício 13: solução
+- [ ] 87. Exercício 14: explicação
+- [ ] 88. Exercício 14: solução
+- [ ] 89. Exercício 15: explicação
+- [ ] 90. Exercício 15: solução
+- [ ] 91. Conclusão da seção
+</details>
+
+<details>
+<summary><b>Seção 4.1: Exercícios</b> sobre funções</summary>
+
+- [ ] 107. Introdução da seção
+- [ ] 108. Exercício 16: explicação
+- [ ] 109. Exercício 16: solução
+- [ ] 110. Exercício 17: explicação
+- [ ] 111. Exercício 17: solução
+- [ ] 112. Exercício 18: explicação
+- [ ] 113. Exercício 18: solução
+- [ ] 114. Exercício 19: explicação
+- [ ] 115. Exercício 19: solução
+- [ ] 116. Exercício 20: explicação
+- [ ] 117. Exercício 20: solução
+- [ ] 118. Exercício 21: explicação
+- [ ] 119. Exercício 21: solução
+- [ ] 120. Exercício 22: explicação
+- [ ] 121. Exercício 22: solução
+- [ ] 122. Exercício 23: explicação
+- [ ] 123. Exercício 23: solução
+- [ ] 124. Exercício 24: explicação
+- [ ] 125. Exercício 24: solução
+- [ ] 126. Exercício 25: explicação
+- [ ] 127. Exercício 25: solução
+- [ ] 128. Conclusão da seção
+</details>
+
+<details>
+<summary><b>Seção 5.1: Exercícios</b> sobre arrays e objetos</summary>
+
+- [ ] 159. Introdução da seção
+- [ ] 160. Exercício 26: explicação
+- [ ] 161. Exercício 26: solução
+- [ ] 162. Exercício 27: explicação
+- [ ] 163. Exercício 27: solução
+- [ ] 164. Exercício 28: explicação
+- [ ] 165. Exercício 28: solução
+- [ ] 166. Exercício 29: explicação
+- [ ] 167. Exercício 29: solução
+- [ ] 168. Exercício 30: explicação
+- [ ] 169. Exercício 30: solução
+- [ ] 170. Exercício 31: explicação
+- [ ] 171. Exercício 31: solução
+- [ ] 172. Exercício 32: explicação
+- [ ] 173. Exercício 32: solução
+- [ ] 174. Exercício 33: explicação
+- [ ] 175. Exercício 33: solução
+- [ ] 176. Exercício 34: explicação
+- [ ] 177. Exercício 34: solução
+- [ ] 178. Exercício 35: explicação
+- [ ] 179. Exercício 35: solução
+- [ ] 180. Conclusão da seção
+</details>
+
+<details>
+<summary><b>Seção 6.1: Exercícios</b> sobre orientação a objetos</summary>
+
+- [ ] 199. Introdução da seção
+- [ ] 200. Exercício 36: explicação
+- [ ] 201. Exercício 36: solução
+- [ ] 202. Exercício 37: explicação
+- [ ] 203. Exercício 37: solução
+- [ ] 204. Exercício 38: explicação
+- [ ] 205. Exercício 38: solução
+- [ ] 206. Exercício 39: explicação
+- [ ] 207. Exercício 39: solução
+- [ ] 208. Exercício 40: explicação
+- [ ] 209. Exercício 40: solução
+- [ ] 210. Conclusão da seção
+</details>
+
+<details>
+<summary><b>Seção 8.1: Exercícios</b> sobre Expressões Regulares</summary>
+
+- [ ] 240. Introdução da seção
+- [ ] 241. Exercício 41: explicação
+- [ ] 242. Exercício 41: solução
+- [ ] 243. Exercício 42: explicação
+- [ ] 244. Exercício 42: solução
+- [ ] 245. Exercício 43: explicação
+- [ ] 246. Exercício 43: solução
+- [ ] 247. Exercício 44: explicação
+- [ ] 248. Exercício 44: solução
+- [ ] 249. Exercício 45: explicação
+- [ ] 250. Exercício 45: solução
+- [ ] 251. Conclusão da seção
+</details>
+
