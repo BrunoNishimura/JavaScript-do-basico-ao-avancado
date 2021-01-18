@@ -31,3 +31,8 @@ if(nome == "Matheus"){
 } else {
     console.log("O nome não foi encontrado");
 }
+
+//Observação: O switch poderia ser aplicado caso fosse por exemplo uma lista de rotas
+//Como há milhares de rotas para verificar, se eu faço com switch poderia ficar mais bonito o código.
+//Ou seja, um motivo para usar switch seria caso se precisasse fazer muitas verificações seguidas!
+

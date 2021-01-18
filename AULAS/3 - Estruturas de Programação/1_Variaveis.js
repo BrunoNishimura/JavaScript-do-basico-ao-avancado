@@ -59,7 +59,7 @@ console.log(sobrenome); //Soares
 const IP = "127.0.0.1"
 console.log(IP) // 127.0.0.1
 
-IP = "200.0.0.1" //Não é possível alterar o valor da const!
+IP = "200.9.9.9" //Não é possível alterar o valor da const!
 console.log(IP)// Uncaught TypeError: Assignment to constant variable;
 
 //--------------------Convenção no nome das variáveis------//
@@ -80,3 +80,11 @@ let @teste = "esta com erro"
 let Nome = 'Bruno'
 let meuPrimeiroNome = 'Bruno'
 
+//-----Aula 67: Um pouco mais sobre declaração de variáveis
+let carrovermelhogrande; //(difícil de ler)
+
+let carro_vermelho_grande;// Ok, mas tem gente que não gosta.
+let CarroVermelhoGrande;// Ok, mas pode futuramente serem confundidos com classes.
+
+let carroVermelhoGrande; //(mais utilizado) As classes possuem a primeira letra maiúscula.
+// Portanto deste modo já é possível diferenciar as classes das variáveis!
