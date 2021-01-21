@@ -81,6 +81,7 @@ let Nome = 'Bruno'
 let meuPrimeiroNome = 'Bruno'
 
 //-----Aula 67: Um pouco mais sobre declaração de variáveis
+
 let carrovermelhogrande; //(difícil de ler)
 
 let carro_vermelho_grande;// Ok, mas tem gente que não gosta.
@@ -88,3 +89,28 @@ let CarroVermelhoGrande;// Ok, mas pode futuramente serem confundidos com classe
 
 let carroVermelhoGrande; //(mais utilizado) As classes possuem a primeira letra maiúscula.
 // Portanto deste modo já é possível diferenciar as classes das variáveis!
+
+
+
+//-----Aula 68: Comentários no JavaScript
+
+/* 
+Os comentários são utilizados geralmente para duas coisas:
+
+- Explicar o que esta acontecendo no código, sem escrever um texto enorme.
+Se você precisa de muitas palavras para explicar um código, quer dizer que o código esta mal feita no código.
+Exemplo: Explicar os parâmetros ou quais os parâmetros que a função esta esperando.
+
+- Também serve para testar se algum código está afetando o sistema;
+Pois ele é Completamente ignorado pelo interpretador de código;
+*/
+
+//Utilizados em comentários de uma linha;
+/* Utilizados em  comentários 
+de várias linhas */
+
+/*Observação: Deve-se deletar os códigos comentados, pois é uma boa prática!
+Má pratica deixar comentários inúteis no código!
+
+Como os comentários também geram "peso" no arquivo é necessário comentar com consciência para não interferir na performance do site*/
+
