@@ -12,73 +12,73 @@
 
 - [x] 1. Apresentação do curso
 - [x] 2. Introdução
-- [ ] 3. O que é JavaScript?
-- [ ] 4. Onde o JavaScript é utilizado?
-- [ ] 5. Fazendo download do VSCode (editor de texto utilizado no curso)
-- [ ] 6. Como executar JS no navegador por arquivo 
-- [ ] 7. Como executar JS diretamente no navegador
-- [ ] 8. Maneira alternativa de executar JS
-- [ ] 9. Como pesquisar problemas/dúvidas de código no Stackoverflow
-- [ ] 10. Como pesquisar problemas/dúvidas de códigos no Google
-- [ ] 11. Minha sugestão para você acompanhar o curso
-- [ ] 12. Slides do Curso
-- [ ] 13. Conclusão da seção
-- [ ] 14. Arquivos do curso
+- [x] 3. O que é JavaScript?
+- [x] 4. Onde o JavaScript é utilizado?
+- [x] 5. Fazendo download do VSCode (editor de texto utilizado no curso)
+- [x] 6. Como executar JS no navegador por arquivo 
+- [x] 7. Como executar JS diretamente no navegador
+- [x] 8. Maneira alternativa de executar JS
+- [x] 9. Como pesquisar problemas/dúvidas de código no Stackoverflow
+- [x] 10. Como pesquisar problemas/dúvidas de códigos no Google
+- [x] 11. Minha sugestão para você acompanhar o curso
+- [x] 12. Slides do Curso
+- [x] 13. Conclusão da seção
+- [x] 14. Arquivos do curso
 </details>
 
 <details>
 <summary><b>Seção 2:</b> Tipos de dado e operadores lógicos</summary>
 
 - [x] 15. Introdução da seção
-- [ ] 16. O que são tipos de dados?
-- [ ] 17. Tipo de dado: number
-- [ ] 18. Operações aritméticas com numbers
-- [ ] 19. Conhecendo os special numbers
-- [ ] 20. Tipo de dado: string
-- [ ] 21. Mais sobre strings
-- [ ] 22. Tipo de dado: boolean
-- [ ] 23. Comparações com booleans
-- [ ] 24. Operadores lógicos: teoria
-- [ ] 25. Operadores lógicos: prática
-- [ ] 26. Operador ternário
-- [ ] 27. Conhecendo os empty values
-- [ ] 28. Conversão automática de valor
-- [ ] 29. Conclusão da seção
-- [ ] <b>Teste 1:</b> Questionário sobre tipos de dados 
+- [x] 16. O que são tipos de dados?
+- [x] 17. Tipo de dado: number
+- [x] 18. Operações aritméticas com numbers
+- [x] 19. Conhecendo os special numbers
+- [x] 20. Tipo de dado: string
+- [x] 21. Mais sobre strings
+- [x] 22. Tipo de dado: boolean
+- [x] 23. Comparações com booleans
+- [x] 24. Operadores lógicos: teoria
+- [x] 25. Operadores lógicos: prática
+- [x] 26. Operador ternário
+- [x] 27. Conhecendo os empty values
+- [x] 28. Conversão automática de valor
+- [x] 29. Conclusão da seção
+- [x] <b>Teste 1:</b> Questionário sobre tipos de dados 
 </details>
 
 <details>
 <summary><b>Seção 3:</b> Estruturas de Programação</summary>
 
-- [ ] 42. Introdução da seção
-- [ ] 43. O que é um software?
-- [ ] 44. O que são variáveis?
-- [ ] 45. Outras forma de declarar variáveis
-- [ ] 46. Convenção no nome de váriaveis
-- [ ] 47. Palavras reservadas da linguagem JavaScript
-- [ ] 48. O ambiente do JavaScript
-- [ ] 49. As estruturas das funções
-- [ ] 50. Função built in: prompt
-- [ ] 51. Função built in: alert
-- [ ] 52. Função built in: Math
-- [ ] 53. Função built in: console.log
-- [ ] 54. O que são estruturas de controle?
-- [ ] 55. Estrutura de controle: if
-- [ ] 56. Estrutura de controle: else
-- [ ] 57. Estrutura de controle: else if
-- [ ] 58. O que são estruturas de repetição?
-- [ ] 59. Estrutura de repetição: while
-- [ ] 60. Estrutura de repetição: do while
-- [ ] 61. Estrutura de repetição: for
-- [ ] 62. O que é identação?
-- [ ] 63. Utilizando break
-- [ ] 64. Utilizando continue
-- [ ] 65. Incrementação resumida
-- [ ] 66. Estrutura de controle: switch
-- [ ] 67. Um pouco mais sobre declaração de variáveis
-- [ ] 68. Como escrever comentários
-- [ ] 69. Conclusão da seção
-- [ ] <b>Teste 2:</b> Questionário sobre lógica de programação
+- [x] 42. Introdução da seção
+- [x] 43. O que é um software?
+- [x] 44. O que são variáveis?
+- [x] 45. Outras forma de declarar variáveis
+- [x] 46. Convenção no nome de váriaveis
+- [x] 47. Palavras reservadas da linguagem JavaScript
+- [x] 48. O ambiente do JavaScript
+- [x] 49. As estruturas das funções
+- [x] 50. Função built in: prompt
+- [x] 51. Função built in: alert
+- [x] 52. Função built in: Math
+- [x] 53. Função built in: console.log
+- [x] 54. O que são estruturas de controle?
+- [x] 55. Estrutura de controle: if
+- [x] 56. Estrutura de controle: else
+- [x] 57. Estrutura de controle: else if
+- [x] 58. O que são estruturas de repetição?
+- [x] 59. Estrutura de repetição: while
+- [x] 60. Estrutura de repetição: do while
+- [x] 61. Estrutura de repetição: for
+- [x] 62. O que é identação?
+- [x] 63. Utilizando break
+- [x] 64. Utilizando continue
+- [x] 65. Incrementação resumida
+- [x] 66. Estrutura de controle: switch
+- [x] 67. Um pouco mais sobre declaração de variáveis
+- [x] 68. Como escrever comentários
+- [x] 69. Conclusão da seção
+- [x] <b>Teste 2:</b> Questionário sobre lógica de programação
 </details>
 
 <details>
