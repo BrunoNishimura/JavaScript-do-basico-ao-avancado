@@ -84,138 +84,138 @@
 <details>
 <summary><b>Seção 4:</b> Funções</summary>
 
-- [ ] 92. Introdução da seção
-- [ ] 93. O que são funções?
-- [ ] 94. Definindo uma função: teoria
-- [ ] 95. Definindo uma função: prática
-- [ ] 96. Mais sobre funções
-- [ ] 97. O escopo das funções
-- [ ] 98. Mais sobre escopo
-- [ ] 99. Escopo aninhado
-- [ ] 100. Arrow functions
-- [ ] 101. Mais sobre arrow functions
-- [ ] 102. Argumentos opcionais
-- [ ] 103. Argumentos com valor default
-- [ ] 104. Closure
-- [ ] 105. Recursion
-- [ ] 106. Conclusão da seção
-- [ ] <b>Teste 3:</b> Questionário sobre funções
+- [x] 92. Introdução da seção
+- [x] 93. O que são funções?
+- [x] 94. Definindo uma função: teoria
+- [x] 95. Definindo uma função: prática
+- [x] 96. Mais sobre funções
+- [x] 97. O escopo das funções
+- [x] 98. Mais sobre escopo
+- [x] 99. Escopo aninhado
+- [x] 100. Arrow functions
+- [x] 101. Mais sobre arrow functions
+- [x] 102. Argumentos opcionais
+- [x] 103. Argumentos com valor default
+- [x] 104. Closure
+- [x] 105. Recursion
+- [x] 106. Conclusão da seção
+- [x] <b>Teste 3:</b> Questionário sobre funções
 </details>
 
 <details>
 <summary><b>Seção 5:</b> Arrays e Objects</summary>
 
-- [ ] 129. Introdução da seção
-- [ ] 130. O que são arrays?
-- [ ] 131. Mais sobre arrays
-- [ ] 132. O que são propriedades?
-- [ ] 133. O que são métodos?
-- [ ] 134. O que são objetos?
-- [ ] 135. Adicionando e deletando propriedades de um objeto
-- [ ] 136. Copiando propriedades de um objeto
-- [ ] 137. Verificando as chaves de um objeto
-- [ ] 138. Mutação
-- [ ] 139. Loop em arrays
-- [ ] 140. Métodos de arrays: push e pop
-- [ ] 141. Métodos de arrays: shift e unshift
-- [ ] 142. Métodos de arrays: indexOf e lastIndexOf
-- [ ] 143. Métodos de arrays: slice
-- [ ] 144. Métodos de arrays: forEach
-- [ ] 145. Métodos de arrays: includes
-- [ ] 146. Métodos de arrays: reverse
-- [ ] 147. Métodos de strings: trim
-- [ ] 148. Métodos de strings: padStart
-- [ ] 149. Métodos de strings: split
-- [ ] 150. Métodos de strings: join
-- [ ] 151. Métodos de strings: repeat
-- [ ] 152. Rest operator
-- [ ] 153. Destructuring em objetos
-- [ ] 154. Destructuring em arrays
-- [ ] 155. O que é JSON?
-- [ ] 156. Mais sobre JSON
-- [ ] 157. Convertendo JSON para string
-- [ ] 158. Conclusão
-- [ ] Teste 4: Quiz sobre arrays e objetos
+- [x] 129. Introdução da seção
+- [x] 130. O que são arrays?
+- [x] 131. Mais sobre arrays
+- [x] 132. O que são propriedades?
+- [x] 133. O que são métodos?
+- [x] 134. O que são objetos?
+- [x] 135. Adicionando e deletando propriedades de um objeto
+- [x] 136. Copiando propriedades de um objeto
+- [x] 137. Verificando as chaves de um objeto
+- [x] 138. Mutação
+- [x] 139. Loop em arrays
+- [x] 140. Métodos de arrays: push e pop
+- [x] 141. Métodos de arrays: shift e unshift
+- [x] 142. Métodos de arrays: indexOf e lastIndexOf
+- [x] 143. Métodos de arrays: slice
+- [x] 144. Métodos de arrays: forEach
+- [x] 145. Métodos de arrays: includes
+- [x] 146. Métodos de arrays: reverse
+- [x] 147. Métodos de strings: trim
+- [x] 148. Métodos de strings: padStart
+- [x] 149. Métodos de strings: split
+- [x] 150. Métodos de strings: join
+- [x] 151. Métodos de strings: repeat
+- [x] 152. Rest operator
+- [x] 153. Destructuring em objetos
+- [x] 154. Destructuring em arrays
+- [x] 155. O que é JSON?
+- [x] 156. Mais sobre JSON
+- [x] 157. Convertendo JSON para string
+- [x] 158. Conclusão
+- [x] Teste 4: Quiz sobre arrays e objetos
 </details>
 
 <details>
 <summary><b>Seção 6:</b> Conceitos de orientação a objetos</summary>
 
-- [ ] 181. Introdução da seção
-- [ ] 182. O que é orientação a objetos?
-- [ ] 183. Aprofundando em métodos
-- [ ] 184. Um pouco mais sobre métodos
-- [ ] 185. Prototypes
-- [ ] 186. Avançando em prototypes
-- [ ] 187. Classes
-- [ ] 188. Instanciando classes por função
-- [ ] 189. Instanciando classes por new
-- [ ] 190. Métodos no prototype
-- [ ] 191. Class e constructor do ES6
-- [ ] 192. Override no prototype
-- [ ] 193. Métodos e propriedades em uma Class
-- [ ] 194. Symbol
-- [ ] 195. Getters e Setters
-- [ ] 196. Herança
-- [ ] 197. Operador instanceof
-- [ ] 198. Conclusão da seção
-- [ ] Teste 5: Questionário sobre OO
+- [x] 181. Introdução da seção
+- [x] 182. O que é orientação a objetos?
+- [x] 183. Aprofundando em métodos
+- [x] 184. Um pouco mais sobre métodos
+- [x] 185. Prototypes
+- [x] 186. Avançando em prototypes
+- [x] 187. Classes
+- [x] 188. Instanciando classes por função
+- [x] 189. Instanciando classes por new
+- [x] 190. Métodos no prototype
+- [x] 191. Class e constructor do ES6
+- [x] 192. Override no prototype
+- [x] 193. Métodos e propriedades em uma Class
+- [x] 194. Symbol
+- [x] 195. Getters e Setters
+- [x] 196. Herança
+- [x] 197. Operador instanceof
+- [x] 198. Conclusão da seção
+- [x] Teste 5: Questionário sobre OO
 </details>
 
 <details>
 <summary><b>Seção 7:</b> Debugs e erros no JavaScript</summary>
 
-- [ ] 211. Introdução da seção
-- [ ] 212. O que é bug e debug?
-- [ ] 213. Strict mode
-- [ ] 214. Forma de debug: console.log
-- [ ] 215. Forma de debug: debugger
-- [ ] 216. Tratamento de input por função
-- [ ] 217. Exception
-- [ ] 218. Try e Catch
-- [ ] 219. Finally
-- [ ] 220. Assertion
-- [ ] 221. Conclusão de seção
+- [x] 211. Introdução da seção
+- [x] 212. O que é bug e debug?
+- [x] 213. Strict mode
+- [x] 214. Forma de debug: console.log
+- [x] 215. Forma de debug: debugger
+- [x] 216. Tratamento de input por função
+- [x] 217. Exception
+- [x] 218. Try e Catch
+- [x] 219. Finally
+- [x] 220. Assertion
+- [x] 221. Conclusão de seção
 </details>
 
 <details>
 <summary><b>Seção 8:</b> Expressões Regulares</summary>
 
-- [ ] 222. Introdução da seção
-- [ ] 223. O que são expressões regulares?
-- [ ] 224. Como criar uma expressão regular
-- [ ] 225. Testando uma expressão regular
-- [ ] 226. Conjuntos
-- [ ] 227. Caracteres especiais
-- [ ] 228. Caracteres especiais na prática
-- [ ] 229. Operador not !
-- [ ] 230. Operador plus +
-- [ ] 231. Operador question ?
-- [ ] 232. Operador de precisão
-- [ ] 233. Método exec
-- [ ] 234. Método match
-- [ ] 235. Choice pattern
-- [ ] 236. Regex na prática: validando domínios
-- [ ] 237. Regex na prática: validando e-mail
-- [ ] 238. Regex na prática: validando data de nascimento
-- [ ] 239. Conclusão da seção
+- [x] 222. Introdução da seção
+- [x] 223. O que são expressões regulares?
+- [x] 224. Como criar uma expressão regular
+- [x] 225. Testando uma expressão regular
+- [x] 226. Conjuntos
+- [x] 227. Caracteres especiais
+- [x] 228. Caracteres especiais na prática
+- [x] 229. Operador not !
+- [x] 230. Operador plus +
+- [x] 231. Operador question ?
+- [x] 232. Operador de precisão
+- [x] 233. Método exec
+- [x] 234. Método match
+- [x] 235. Choice pattern
+- [x] 236. Regex na prática: validando domínios
+- [x] 237. Regex na prática: validando e-mail
+- [x] 238. Regex na prática: validando data de nascimento
+- [x] 239. Conclusão da seção
 </details>
 
 <details>
 <summary><b>Seção 9:</b> Programação Assíncrona com JavaScript</summary>
 
-- [ ] 252. Introdução da seção
-- [ ] 253. O que é programação assíncrona?
-- [ ] 254. Utilizando callbacks
-- [ ] 255. Aprendendendo a utilizar Promises
-- [ ] 256. Falha nas Promises
-- [ ] 257. Rejeitando Promises
-- [ ] 258. Resolvendo várias Promises
-- [ ] 259. Funções assíncronas
-- [ ] 260. Utilizando await
-- [ ] 261. Generators
-- [ ] 262. Conclusão da seção
-- [ ] Teste 6: Questionário sobre programação assíncrona
+- [x] 252. Introdução da seção
+- [x] 253. O que é programação assíncrona?
+- [x] 254. Utilizando callbacks
+- [x] 255. Aprendendendo a utilizar Promises
+- [x] 256. Falha nas Promises
+- [x] 257. Rejeitando Promises
+- [x] 258. Resolvendo várias Promises
+- [x] 259. Funções assíncronas
+- [x] 260. Utilizando await
+- [x] 261. Generators
+- [x] 262. Conclusão da seção
+- [x] Teste 6: Questionário sobre programação assíncrona
 </details>
 
 <details>
