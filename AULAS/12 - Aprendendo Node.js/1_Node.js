@@ -36,3 +36,29 @@ Math.pow(4,5);
 let msg = 'Bruno';
 console.log(msg); //Bruno
 */
+
+/*O npm (Node Package Manager)
+- Ferramenta utilizada para instalar módulos de JavaScript;
+- Que podem fazer desde operações matemáticas até comunicação HTTP;
+- Instalamos um pacote pelo comando npm install pacote;
+- Vem junto com o Node;
+
+Jamais utilizar o npm install sem seguir boas práticas:
+- npm install pacote, irá instalar as dependências na máquina.
+- atrapalhando outros projetos que irão precisar usar dependências diferentes em versões diferentes.
+- O correto é instalar as dependências individualmente para cada projeto.
+*/
+
+/*Criando um projeto
+- Na última aula vimos que o node reclamou da falta do package.json;
+- O certo sempre é ter um arquivo desse ao iniciar um novo projeto;
+- Podemos criar a partir do template, utilizando o comando: npm init;
+- Aí teremos um projeto com package.json;
+- Este arquivo serve para configurações e salva nossas dependências;
+
+Ordem dos comandos:
+- npm init //Este comando serve para configurar todo o pacote, para casos mais específicos
+    //Para utilizar as configurações padrão, só ir pressionando o Enter.
+- Após esta etapa, o arquivo package.json será criado com as configurações solicitadas, sendo  ainda possível ser alterado futuramente. Caso seja necessário.
+
+*/
